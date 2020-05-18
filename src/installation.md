@@ -42,11 +42,11 @@ Download and install the [GitHub desktop tools](https://desktop.github.com/).
 
 On Linux or Mac:
 ```
-git clone https://github.com/ueapy/pythoncourse2019-materials.git
+git clone https://github.com/ueapy/pythoncourse2020-materials.git
 ```
 On Windows:
 ```
-github clone https://github.com/ueapy/pythoncourse2019-materials.git
+github clone https://github.com/ueapy/pythoncourse2020-materials.git
 ```
 This should create a local copy of the course materials in the current directory.
 
@@ -61,7 +61,7 @@ Windows-users, double check that it is cloned in the directory you want.
 3.3. Navigate to the cloned / downloaded folder (using `cd` command), for example:
 
 ```
-cd C:\Users\myname\Downloads\pythoncourse2019-materials\
+cd C:\Users\myname\Downloads\pythoncourse2020-materials\
 ```
 
 3.4. Create the environment using `conda` package manager:
@@ -75,12 +75,12 @@ This will take some time depending on your Internet speed (<15 minutes).
 ### Linux / Mac
 If your default shell is NOT bash, first type `bash`. Activate the relevant environment by typing:
 ```bash
-source activate course2019
+source activate course2020
 ```
 ### Windows
 Still in the command line (Anaconda prompt), type:
 ```
-activate course2019
+activate course2020
 ```
 
 ## 5. Launch Jupyter
@@ -92,4 +92,4 @@ in the command line. This should open Jupyter Notebook in your browser.
 
 ## Still having troubles?
 If you are unable to install Anaconda Python 3.7 on your PC, contact the [course organisers](index.md#registration-and-enquiries).
-Another option: launch the course in a cloud! [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2019-materials)
+Another option: launch the course in a cloud! [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2020-materials)
