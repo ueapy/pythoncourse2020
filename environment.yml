@@ -1,0 +1,10 @@
+name: docs
+channels:
+- conda-forge
+dependencies:
+- mkdocs
+- pygments
+- python=3.6
+- markdown=3.0.1
+- pip:
+  - mkdocs-material
