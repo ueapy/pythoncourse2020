@@ -4,7 +4,7 @@ For this workshop you need to install Python on your laptop!
 
 Follow the instructions below to set up your Python environment. The only requirement is that you have to do this **before** the course! Feel free to contact [Callum](mailto:c.rollo@uea.ac.uk) if you have any problems with the installation (but better google them first!)
 
-Note: **the course is designed in Python 3.7**, but for most cases will work in Python 3.6 too.
+Note: **the course is designed in Python 3.8**, but for most cases will work in Python 3.6 and 3.7 too.
 
 ## 1. Install Python distribution using Anaconda
 1.1. [Download Anaconda with Python 3.7 for your OS](https://www.anaconda.com/download/). If you have a Cefas laptop, install Python from the Cefas Software Centre.
@@ -12,11 +12,11 @@ Note: **the course is designed in Python 3.7**, but for most cases will work in 
 1.2. Install it following [these instructions](https://docs.anaconda.com/anaconda/install/)
 
 ## 2. Download course materials
-The material for the workshop can be directly downloaded as a [zip file](https://github.com/ueapy/pythoncourse2019-materials/archive/master.zip) or can be cloned from our [GitHub repository](https://github.com/ueapy/pythoncourse2019-materials).
+The material for the workshop can be directly downloaded as a [zip file](https://github.com/ueapy/pythoncourse2020-materials/archive/master.zip) or can be cloned from our [GitHub repository](https://github.com/ueapy/pythoncourse2020-materials).
 
 
 ### Option 1: Download ZIP file
-Download the materials as a [zip file](https://github.com/ueapy/pythoncourse2019-materials/archive/master.zip) and unpack it in a suitable directory, for example, in `Downloads` folder.
+Download the materials as a [zip file](https://github.com/ueapy/pythoncourse2020-materials/archive/master.zip) and unpack it in a suitable directory, for example, in `Downloads` folder.
 
 ### Option 2: Using Git
 #### 2.1. Install Git

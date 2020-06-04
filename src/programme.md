@@ -1,52 +1,71 @@
 # Programme
 ## Day 1 - Python Basics
-Wednesday 22nd of May 2019
+Monday 29th of June 2020
 
 | Topic                     | Leader | Type     | Start | End   | Duration |
 |---------------------------|--------|----------|-------|-------|----------|
-| Introduction to Python    | Callum | Lecture  | 09:00 | 09:30 | 00:30    |
-| How to run Python scripts | Tiago  | Lecture  | 09:30 | 09:45 | 00:15    |
-| Jupyter Notebook          | Callum | Lecture  | 09:45 | 10:15 | 00:30    |
-| *Coffee*                  |        | Break    | 10:15 | 10:45 | 00:30    |
-| Python syntax             | Luz    | Lecture  | 10:45 | 11:00 | 00:15    |
-| Python semantics          | Will   | Lecture  | 11:00 | 11:15 | 00:15    |
-| Python variable types     | Will   | Lecture  | 11:15 | 11:45 | 00:30    |
-| Try what you learned      | Luz    | Exercise | 11:45 | 12:15 | 00:30    |
-| *Lunch*                   |        | Break    | 12:15 | 13:00 | 00:45    |
+| *Optional installation patry*   | All | Workshop  | 10:00 | 12:00 | 02:00    |
+| Welcome   | All | Lecture  | 13:00 | 13:15 | 00:15    |
+| Introduction to Python    | Callum | Lecture  | 13:15| 13:45 | 00:30    |
+| How to run Python scripts | Callum  | Lecture  | 13:45| 14:00 | 00:15    |
+| Jupyter Notebook          | Callum | Lecture  | 14:00| 14:30 | 00:30    |
+| *Break*                  |        |     | 14:30 | 14:45 | 00:15    |
+| Python syntax             | Tiago    | Lecture  | 14:45 | 15:00 | 00:15    |
+| Python semantics          | Tiago   | Lecture  | 11:00 | 11:15 | 00:15    |
+| Python variable types     | Tiago   | Lecture  | 15:15 | 15:45 | 00:30    |
+| Try what you learned      | Tiago    | Exercise | 15:45 | 16:15 | 00:30    |
+
+
+
+## Day 2 -  Control flow and programming environment
+Tuesday 30th of June 2020
+
+| Topic                     | Leader | Type     | Start | End   | Duration |
+|---------------------------|--------|----------|-------|-------|----------|
 | Control flow statements   | Will   | Lecture  | 13:00 | 13:45 | 00:45    |
-| Defining functions        | Tiago  | Lecture  | 13:45 | 14:30 | 00:45    |
-| Build a simple program    | Luz    | Exercise | 14:30 | 15:30 | 01:00    |
-| *Coffee*                  |        | Break    | 15:30 | 16:00 | 00:30    |
-| Modularity and packages   | Callum | Lecture  | 16:00 | 16:30 | 00:30    |
-| Build another program     | Luz    | Exercise | 16:30 | 17:00 | 00:30    |
+| Defining functions        | Will  | Lecture  | 13:45 | 14:30 | 00:45    |
+| *Break*                  |        |     | 14:30 | 14:45 | 00:15    |
+| Build a simple program    | Will    | Exercise | 14:45 | 15:45 | 01:00    |
+| Modularity and packages   | Tiago | Lecture  | 15:45 | 16:15 | 00:30    |
+| Build another program     | Tiago    | Exercise | 16:15 | 16:45 | 00:30    |
 
-## Day 2 -  Arrays and Plots
-Thursday 23rd of May 2019
-
-| Topic                     | Leader | Type     | Start | End   | Duration |
-|---------------------------|--------|----------|-------|-------|----------|
-| Numpy: basics             | Will   | Lecture  | 09:00 | 10:00 | 01:00    |
-| Numpy: explore arrays     | Will   | Exercise | 10:00 | 10:30 | 00:30    |
-| *Coffee*                  |        | Break    | 10:30 | 11:00 | 00:30    |
-| Going deeper in numpy     | Luz    | Lecture  | 11:00 | 12:00 | 01:00    |
-| *Lunch*                   |        | Break    | 12:00 | 12:45 | 00:45    |
-| Intro to matplotlib       | Callum | Lecture  | 12:45 | 14:00 | 01:15    |
-| Plotting exercise         | Callum | Exercise | 14:00 | 15:00 | 01:00    |
-| *Coffee*                  |        | Break    | 15:00 | 15:30 | 00:30    |
-| Datetime and plotting     | Tiago  | Lecture  | 15:30 | 17:00 | 01:30    |
-|  with Seaborn             |        |          |       |       |          |
-
-## Day 3 - Maps and Datasets
-Friday 24th of May 2019
+## Day 3 -  Arrays and intro to plotting
+Wenesday 1st of July 2020
 
 | Topic                     | Leader | Type     | Start | End   | Duration |
 |---------------------------|--------|----------|-------|-------|----------|
-| Introduction to cartopy   | Will   | Lecture  | 09:00 | 10:00 | 01:00    |
-| Introduction to pandas    | Callum | Lecture  | 10:00 | 10:30 | 00:30    |
-| *Coffee*                  |        | Break    | 10:30 | 11:00 | 00:30    |
-| More pandas               | Tiago  | Lecture  | 11:00 | 12:30 | 01:30    |
-| *Lunch*                   |        | Break    | 12:30 | 13:15 | 00:45    |
-| Xarray and working with   | Luz    | Lecture  | 13:15 | 14:45 | 01:30    |
-|  netCDF data              |        |          |       |       |          |
-| *Coffee*                  |        | Break    | 14:45 | 15:15 | 00:30    |
-| Bring-your-data project   | Tiago  | Exercise | 15:15 | 17:00 | 01:45    |
+| Numpy: basics             | Jenny   | Lecture  | 13:00 | 14:00 | 01:00    |
+| Numpy: explore arrays     | Jenny   | Exercise | 14:00 | 14:30 | 00:30    |
+| *Break*                  |        |     | 14:30 | 14:45 | 00:15    |
+| Going deeper in numpy     | Jenny    | Lecture  | 14:45 | 15:45 | 01:00    |
+| Intro to matplotlib       | Callum | Lecture  | 15:45 | 17:00 | 01:15    |
+
+## Day 4 -  Further plotting and data analysis
+Thursday 2nd of July 2020
+
+| Topic                     | Leader | Type     | Start | End   | Duration |
+|---------------------------|--------|----------|-------|-------|----------|
+| Plotting exercise         | Callum | Exercise | 13:00 | 14:00 | 01:00    |
+|Datetime    | Tiago | Lecture  | 14:00 | 14:45 | 00:45    |
+| Introduction to pandas    | Tiago | Lecture  | 14:00 | 14:30 | 00:30    |
+| *Break*                  |        |     | 14:30 | 14:45 | 00:15    |
+| More pandas               | Will  | Lecture  | 14:45 | 16:15 | 01:30    |
+| Plotting with Seaborn     | Tiago  | Lecture  | 16:15 | 17:00 | 00:45    |
+
+## Day 5 - Maps and netCDF
+Thursday 3rd of July 2020
+
+| Topic                     | Leader | Type     | Start | End   | Duration |
+|---------------------------|--------|----------|-------|-------|----------|
+| Introduction to cartopy   | Callum   | Lecture  | 13:00 | 14:00 | 01:00    |
+| *Break*                  |        |     | 14:00 | 14:15 | 00:15    |
+| Xarray and netCDF  | Jenny    | Lecture  | 14:15 | 15:45 | 01:30    |
+| *Break*                  |        |     | 15:45 | 16:00 | 00:15    |
+| Bring-your-data project   | All  | Exercise | 16:00 | 17:00 | 01:00    |
+
+Monday 6th of July 2020
+
+| Topic                     | Leader | Type     | Start | End   | Duration |
+|---------------------------|--------|----------|-------|-------|----------|
+| Bring-your-data project   | All  | Exercise | 15:00 | 17:00 | 02:00    |
+
