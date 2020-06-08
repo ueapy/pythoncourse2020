@@ -53,7 +53,7 @@ Thursday 2nd of July 2020
 | Plotting with Seaborn     | Tiago  | Lecture  | 16:15 | 17:00 | 00:45    |
 
 ## Day 5 - Maps and netCDF
-Thursday 3rd of July 2020
+Friday 3rd of July 2020
 
 | Topic                     | Leader | Type     | Start | End   | Duration |
 |---------------------------|--------|----------|-------|-------|----------|
