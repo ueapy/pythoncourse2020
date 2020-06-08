@@ -34,7 +34,7 @@ The comfort of your own home
 The PyFAS group meets at least one a month. Contact Riccardo Arosio to receive the invites.
 
 ###UEA
-The UEA Python group meets occasionally. Check the archives of previous sessions here: [https://ueapy.github.io](https://ueapy.github.io/). Or join our [Slack workspace](https://uea-python.slack.com/)
+The UEA Python group meets occasionally. Check the archives of previous sessions here: [https://ueapy.github.io](https://ueapy.github.io/). Or join our [Slack workspace](https://uea-python.slack.com/) to ask questions and take part in weekly coding drop ins.
 
 <center>
 <a href="http://www.uea.ac.uk"><img src="flyer/uealogo.png" title="University of East Anglia" style="height:75px;" hspace="20"></a>
