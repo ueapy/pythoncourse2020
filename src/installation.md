@@ -9,7 +9,7 @@ Note: **the course is designed in Python 3.8**, but for most cases will work in 
 ## 1. Install Python distribution using Anaconda
 1.1. [Download Anaconda with Python 3.7 for your OS](https://www.anaconda.com/download/). If you have a Cefas laptop, **do not** install Python from the Cefas Software Centre.
 
-1.2. Install it following [these instructions](https://docs.anaconda.com/anaconda/install/). Be sure to select install "just me".
+1.2. Install it following [these instructions](https://docs.anaconda.com/anaconda/install/). Be sure to select install "just me" when prompted.
 
 ## 2. Download course materials
 The material for the workshop can be directly downloaded as a [zip file](https://github.com/ueapy/pythoncourse2020-materials/archive/master.zip) or can be cloned from our [GitHub repository](https://github.com/ueapy/pythoncourse2020-materials).
