@@ -7,7 +7,7 @@ Follow the instructions below to set up your Python environment. The only requir
 Note: **the course is designed in Python 3.8**, but for most cases will work in Python 3.6 and 3.7 too.
 
 ## 1. Install Python distribution using Anaconda
-1.1. [Download Anaconda with Python 3.7 for your OS](https://www.anaconda.com/download/). If you have a Cefas laptop, install Python from the Cefas Software Centre.
+1.1. [Download Anaconda with Python 3.7 for your OS](https://www.anaconda.com/download/). If you have a Cefas laptop, **do not** install Python from the Cefas Software Centre.
 
 1.2. Install it following [these instructions](https://docs.anaconda.com/anaconda/install/)
 
