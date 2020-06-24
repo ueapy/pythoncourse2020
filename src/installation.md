@@ -36,17 +36,16 @@ Download and install [Git for Windows](https://git-scm.com/downloads).
 #### 2.2. Clone the repository
 2.2.1. Open the command line (Git bash, terminal or cmd.exe)
 
-2.2.2. (Linux or Mac, optional) Change to a suitable directory (e.g. `/home/yourname/Documents`)
+2.2.2. (Linux or Mac, optional) Change to a suitable directory (e.g. `cd /home/yourname/Documents`)
 
 2.2.3. Clone the repo by typing
 
-On Linux or Mac:
 ```
 git clone https://github.com/ueapy/pythoncourse2020-materials.git
 ```
 This should create a local copy of the course materials in the current directory.
 
-Windows-users, double check that it has been cloned in the directory you want.
+Windows-users, double check that it has been cloned in the directory you wanted.
 
 
 ## 3. Create the environment
