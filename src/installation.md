@@ -31,10 +31,10 @@ Use your package manager. For example, using aptitude you would run the followin
 * Open a new terminal and run the command xcode-select --install
 * Select install on the pop-up menu.
 ##### Windows
-Download and install the [GitHub desktop tools](https://desktop.github.com/).
+Download and install [Git for Windows](https://git-scm.com/downloads).
 
 #### 2.2. Clone the repository
-2.2.1. Open the command line (terminal or cmd.exe)
+2.2.1. Open the command line (Git bash, terminal or cmd.exe)
 
 2.2.2. (Linux or Mac, optional) Change to a suitable directory (e.g. `/home/yourname/Documents`)
 
