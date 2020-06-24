@@ -44,13 +44,9 @@ On Linux or Mac:
 ```
 git clone https://github.com/ueapy/pythoncourse2020-materials.git
 ```
-On Windows:
-```
-github clone https://github.com/ueapy/pythoncourse2020-materials.git
-```
 This should create a local copy of the course materials in the current directory.
 
-Windows-users, double check that it is cloned in the directory you want.
+Windows-users, double check that it has been cloned in the directory you want.
 
 
 ## 3. Create the environment
